@@ -1,4 +1,4 @@
 # action-repo
-hello push event
-second push test
+Testing pull request event
+
 
